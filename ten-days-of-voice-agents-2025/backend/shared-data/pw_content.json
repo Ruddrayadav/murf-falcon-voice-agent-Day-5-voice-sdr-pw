@@ -1,0 +1,29 @@
+{
+  "company": {
+    "name": "Physics Wallah",
+    "description": "PW is India\u2019s leading affordable EdTech platform offering courses for NEET, JEE, UPSC and countless competitive exams.",
+    "mission": "Deliver high-quality education at the lowest price in India."
+  },
+  "faq": [
+    {
+      "q": "What is PW?",
+      "a": "PW is an affordable EdTech platform offering online & offline classes for competitive exams in India."
+    },
+    {
+      "q": "Is there a free trial?",
+      "a": "Yes! Many PW courses include free demo lectures and sample chapter tests."
+    },
+    {
+      "q": "What courses do you offer?",
+      "a": "PW offers courses for NEET, JEE, UPSC, GATE, banking, and school-level boards."
+    },
+    {
+      "q": "Who are PW teachers?",
+      "a": "PW features highly qualified educators, including Alakh Pandey Sir and other top faculty."
+    },
+    {
+      "q": "What about pricing?",
+      "a": "PW courses are among the most affordable, starting from \u20b9299 to \u20b95000 depending on class and exam type."
+    }
+  ]
+}

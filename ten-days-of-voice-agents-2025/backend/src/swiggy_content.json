@@ -1,0 +1,49 @@
+{
+  "company_info": {
+    "name": "Swiggy",
+    "description": "Swiggy is India's leading on-demand delivery platform offering food delivery, Instamart grocery delivery, Swiggy Genie pickup & drop, and restaurant logistics.",
+    "mission": "To elevate the quality of life for urban consumers by offering unparalleled convenience."
+  },
+
+  "verticals": [
+    {
+      "name": "Food Delivery",
+      "description": "Order food from thousands of restaurants with real-time tracking & fast delivery."
+    },
+    {
+      "name": "Instamart",
+      "description": "Instant grocery delivery in minutes. Daily essentials, snacks, fruits, veggies & more."
+    },
+    {
+      "name": "Swiggy Genie",
+      "description": "Pickup & drop anything within your city — parcels, keys, food, documents."
+    },
+    {
+      "name": "Restaurant Onboarding",
+      "description": "A program for restaurants to partner with Swiggy and expand their customer base."
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "How does Swiggy work?",
+      "answer": "You place an order, the restaurant prepares the food, and a delivery partner brings it to your doorstep."
+    },
+    {
+      "question": "Does Swiggy offer grocery delivery?",
+      "answer": "Yes! Through Swiggy Instamart you can order groceries and essentials in minutes."
+    },
+    {
+      "question": "How can restaurants partner with Swiggy?",
+      "answer": "Restaurants can join via the Swiggy Partner Portal. Our team helps with onboarding and menu setup."
+    },
+    {
+      "question": "What is Swiggy Genie?",
+      "answer": "Swiggy Genie lets you send or pick up anything in your city—documents, keys, lunch boxes, etc."
+    },
+    {
+      "question": "Is there a subscription?",
+      "answer": "Yes, Swiggy One provides unlimited free deliveries, discounts, and priority support."
+    }
+  ]
+}

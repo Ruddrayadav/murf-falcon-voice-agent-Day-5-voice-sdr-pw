@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-11-26T19:04:33.958467",
+    "name": "Rudri Adav",
+    "email": "onetwothree@gmail.com",
+    "role": "student",
+    "interest": "NEET Biology",
+    "timeline": "later"
+  },
+  {
+    "timestamp": "2025-11-26T19:13:38.009804",
+    "name": "Murudri Adav",
+    "email": "1234@gmail.com",
+    "role": "student",
+    "interest": "JEE and NEET",
+    "timeline": "later"
+  },
+  {
+    "timestamp": "2025-11-26T19:17:10.803710",
+    "name": "Raghab",
+    "email": "radhub@the1234",
+    "role": "Student",
+    "interest": "NEET courses",
+    "timeline": "now"
+  },
+  {
+    "timestamp": "2025-11-26T19:27:17.131365",
+    "name": "Raghav",
+    "email": "raghav@onetwothreefour.com",
+    "role": "Student",
+    "interest": "IIT JEE course",
+    "timeline": "Later"
+  }
+]
